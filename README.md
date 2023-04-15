@@ -1,2 +1,2 @@
-# case-2-data-sueta
-Кейс №2 - Дата суета 
+# case-3-data-sueta
+Кейс №3 - Дата суета 
